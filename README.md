@@ -6,15 +6,15 @@
 [元宇宙NFT藏品 服务端系统源码 Meta-Server](https://github.com/Meta-NFT-boy/meta-nft-server)
 
 
-**A magical vue element admin.**
+**效果演示**
 
 - [效果演示地址](http://permission.aimdream.com)
 
 **分支说明：**
 
-**master分支**：前后端统一开发的版本；用nodejs + express + mongodb或者MySql；
+**master**：前后端统一开发的版本；用nodejs + express + mongodb或者MySql；
 
-**dev分支**：进行了前后端分离的版本；用户只关注于前端部分，可忽略服务端；下载下来，即可运行；
+**dev**：进行了前后端分离的版本；用户只关注于前端部分，可忽略服务端；下载下来，即可运行；
 
 **dev-permission**：<b color="#87DE75">增加了权限管理(包括页面权限和按钮权限)的功能和顶栏三级菜单显示，完全剥离nodejs后台。</b>
 
