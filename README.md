@@ -99,4 +99,4 @@ QQ：287145101
 
 微信：huniuoo
 
-<img src="https://github.com/Meta-NFT-boy/meta-nft-admin/static/wechat.png">
+<img src="https://github.com/Meta-NFT-boy/meta-nft-admin/blob/main/static/weichat.png">
