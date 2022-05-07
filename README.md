@@ -1,4 +1,4 @@
-<b>Aimdream Admin</b>
+<b>meta Admin</b>
 
 **A magical vue element admin.**
 
@@ -10,7 +10,7 @@
 
 **dev分支**：进行了前后端分离的版本；用户只关注于前端部分，可忽略服务端；下载下来，即可运行；
 
-**dev-permission分支**：<b color="#87DE75">增加了权限管理(包括页面权限和按钮权限)的功能和顶栏三级菜单显示，完全剥离nodejs后台。</b>
+**dev-permission**：<b color="#87DE75">增加了权限管理(包括页面权限和按钮权限)的功能和顶栏三级菜单显示，完全剥离nodejs后台。</b>
 
 ## 提示
 <p style="display:flex;align-items:center;">
@@ -18,7 +18,7 @@
 
 ## About
 
-本文主要讲解dev-permission分支内容：
+本文主要提及项目基础信息：
 
 ```bash
   如果对您对此项目有兴趣，可以联系我! 谢谢！ ^_^
@@ -78,12 +78,12 @@
 ## 演示
 ## 
 测试账号:
-1. username: aimdream / password: 654321
+1. username: admin / password: 654321
 2. username: editor / password: 654321
 
 注意：
 
-aimdream：拥有最高权限，可以查看所有的页面和按钮；
+admin：拥有最高权限，可以查看所有的页面和按钮；
 
 editor：只有被赋予权限的页面和按钮才可以看到；
 
@@ -94,6 +94,9 @@ editor：只有被赋予权限的页面和按钮才可以看到；
 
 ## 技术答疑，项目交流
 欢迎联系我们：
-QQ：287145101
-微信：
 
+QQ：287145101
+
+微信：huniuoo
+
+<img src="https://github.com/Meta-NFT-boy/meta-nft-admin/static/wechat.png">
